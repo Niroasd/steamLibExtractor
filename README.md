@@ -1,7 +1,4 @@
-# Instructions
-
-
-## Folder Structure
+# How to use
 
 
 - `ìnput`: Paste everything you get from this website (https://store.steampowered.com/account/licenses/) to the textfile in ./input
